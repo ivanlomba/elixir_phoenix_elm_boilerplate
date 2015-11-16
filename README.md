@@ -1,5 +1,7 @@
 # ElixirPhoenixElmBoilerplate
 
+You should have the Elm platform, elixir and phoenix installed in order to run this boilerplate
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
@@ -8,12 +10,8 @@ To start your Phoenix app:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
+## Useful links
 
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: http://phoenixframework.org/docs/overview
+  * Phoenix + Elm guide courtesy of Cultivate http://www.cultivatehq.com/posts/phoenix-elm-1/
+  * Phoenix guides: http://phoenixframework.org/docs/overview
   * Docs: http://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
